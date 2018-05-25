@@ -13,5 +13,5 @@ $ sudo pacman -S tesseract tesseract-data-eng
 $ go get -u -v github.com/iz4vve/go-ocr
 ...
 
-$./go-ocr /path/to/png
+$ $GOPATH/bin/go-ocr /path/to/png
 ```
